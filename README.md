@@ -1,2 +1,2 @@
-# Trabalho2LP
-2o trabalho de LP - Coletor automático de lixo por contagem de referências
+# Coletor de Lixo em C
+2º trabalho de LP: Coletor automático de lixo por contagem de referências.
